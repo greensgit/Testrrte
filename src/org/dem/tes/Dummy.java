@@ -70,4 +70,8 @@ private void changingColor() {
 System.out.println("This is sujeesh - working on changing colors");
 }
 
+private void zoominImageforProduct() {
+	System.out.println("This is kavitha - working on zoom in");
+}
+
 }
